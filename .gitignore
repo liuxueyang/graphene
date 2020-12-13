@@ -12,3 +12,5 @@ eshell/
 .graphene-geometry
 *~
 smex-items
+ido.last
+network-security.data
